@@ -36,7 +36,6 @@ The data includes global COVID-19 case counts, deaths, population, and vaccinati
 - Data cleaning with SQL  
 - Exploratory data analysis (EDA)  
 - Advanced SQL (joins, CTEs, window functions, temp tables)  
-- Connecting raw data to visualization (Tableau)  
 
 ---
 
